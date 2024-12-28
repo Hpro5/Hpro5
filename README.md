@@ -17,11 +17,11 @@
 
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo)](https://github.com/yourusername/yourrepo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hpro5&repo=yourrepo)](https://github.com/yourusername/yourrepo)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hpro5&show_icons=true&theme=radical)
 
 ## Let's Connect!
 
